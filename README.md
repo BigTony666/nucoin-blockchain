@@ -1,9 +1,14 @@
 # General
 Basiclly, this project aim to build a blockchain from scratch. Things covered are shown below:
+
 1. Create the core blockchain
 2. build APIs around the blockchain
 3. Create a dynamic peer-to-peer server for multiple contributors
 4. Implement a proof-of-work system to balance users. 
+
+## Workflow
+
+![workflow](./docs/workflow.jpg)
 
 # Blockchain
 Distributed and decentralized ledger that stores data like transactions, that is publicly shared across all the nodes of its network. 
